@@ -1,0 +1,20 @@
+{
+    "name": "Custom cursor",
+    "version": "1.0.0",
+    "description": "latest covid data of UK",
+    "manifest_version": 3,
+    "author": "Sallbro",
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "scripting"
+    ],
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    },    
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
+    }
+}

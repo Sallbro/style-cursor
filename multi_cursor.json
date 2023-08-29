@@ -1,0 +1,101 @@
+[
+    {
+        "img1": {
+            "src": "https://img.icons8.com/fluency/48/cursor--v2.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/color/48/blue-pointer.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/arcade/64/cursor.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/color/48/blue-pointer.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/pulsar-color/48/3d-pointer.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/pulsar-color/48/hand-cursor.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/external-mixed-line-solid-yogi-aprelliyanto/50/external-cursor-web-programming-mixed-line-solid-yogi-aprelliyanto.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/stickers/50/cursor-in-window.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/color/48/musical-notes.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/color/48/treble-clef.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/color/48/headphones.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/dusk/64/earbud-headphones.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/dusk/54/micro.png"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/dusk/54/headphones.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/dusk/50/radio.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/dusk/50/portable-speaker2.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/doodle/48/minecraft-sword.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/bubbles/50/minecraft-bed.png",
+            "alt": "icon"
+        }
+    },
+    {
+        "img1": {
+            "src": "https://img.icons8.com/color/48/minecraft-pickaxe.png",
+            "alt": "icon"
+        },
+        "img2": {
+            "src": "https://img.icons8.com/doodle/48/minecraft-grass-cube.png",
+            "alt": "icon"
+        }
+    }
+]
